@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Task App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Survey Task App</h1>
+        <div id="earnings">Earnings: $<span id="earnings-value">0.00</span></div>
+    </header>
+
+    <main>
+        <h2>Available Surveys</h2>
+        <div id="tasks-container"></div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
